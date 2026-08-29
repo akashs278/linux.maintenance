@@ -3,6 +3,7 @@
 </p>
 
 # linux.maintenance
-This Repository Contains everything about maintaining the Linux Operating System
 
-[Regular System Update Bash File Link](./regular_system_maintenance.sh)
+[Regular apt system Update Bash File Link](./apt_system_maintenance.sh)
+[Regular dnf system Update Bash File Link](./dnf_system_maintenance.sh)
+[Regular pacman system Update Bash File Link](./pacman_system_maintenance.sh)
